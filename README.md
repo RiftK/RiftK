@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pratyush Suvanra
+- 👀 I’m interested in learning to code!
+- 🌱 I’m currently learning python!
