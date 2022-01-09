@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pratyush Suvanra
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning python!
+- 👀 I’m interested in developemt
+- 🌱 I’m currently learning android development!
