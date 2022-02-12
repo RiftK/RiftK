@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Pratyush Suvanra
-- 👀 I’m interested in developemt
-- 🌱 I’m currently learning android development!
+- 👋 Hi, I’m Pratyush Suvarna
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently learning API development!
